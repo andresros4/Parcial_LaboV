@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="product_name">Nombre del producto:</string>
+    <string name="product_quantity">Cantidad:</string>
+    <string name="product_price">Precio unitario:</string>
+</resources>
